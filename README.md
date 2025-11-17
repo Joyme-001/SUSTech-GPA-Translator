@@ -1,6 +1,8 @@
 # SUSTech-GPA-Translator
 Example:
+
 text
+
 === 课程成绩计算器 ===
 请输入成绩类别的数量: 3
 
