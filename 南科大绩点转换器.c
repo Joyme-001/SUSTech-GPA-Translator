@@ -1,3 +1,14 @@
+//With the help of Deepseek
+
+/*
+ *FILENAME: 南科大绩点转换器.c
+ *PROJECT: Use Grade and Weight to get your GPA
+ *AUTHOR: Joey XU <12510226@sustech.edu.cn>
+ *DATE CREATED: November 17th,2025
+ *LAST MODIFIED: November 17th,2025
+ *MODIFIED BY: Joey XU
+ */
+
 #include <stdio.h>
 #include <math.h>
 
@@ -74,4 +85,5 @@ double calculate_gpa(double score) {
 // 四舍五入到两位小数的函数
 double round_to_two_decimals(double value) {
     return round(value * 100.0) / 100.0;
+
 }
